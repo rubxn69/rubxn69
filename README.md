@@ -11,7 +11,7 @@
 
 - 👨‍💻 I'm a passionate engineering student having keen interest in different fields.
 - 🌟 Open-source contributor.
-- 🚀 I love building Web apps, discord bots, arduino projects.
+- 🚀 I love building Web apps, discord bots, IoT projects.
 - 📚 Continuous learner, always exploring new technologies and tools.
 
 ### Tech Stack
@@ -21,8 +21,8 @@
 
 ### Current Projects
 
-- 🔭 Portfolio website: My portfolio website
-- 🔭 Pomodoro: a simple pomodoro timer made using react.js
+- 🔭 AirQuality IoT node deployment
+- 🔭 ASL Sign language to speech and reciprocating system
 - 🔭 Discord bot: a basic discord bot made using discord.js
 
 ### Contact Me
