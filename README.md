@@ -34,5 +34,5 @@
 
 ### Fun Facts
 
-- 🌟 I laugh a lot during serious moments
+
 - 🎶 My hobbies :- Gaming,Photography,Music,Movies,Anime
