@@ -38,17 +38,17 @@ I love working on **IoT, Embedded Systems, Computer Vision, and AI/ML** projects
 
 ## 📂 Projects  
 
-### 🔹 [Sign Language to Speech and Reciprocating System](https://github.com/yourusername/sign-language-speech)  
+### 🔹 [Sign Language to Speech and Reciprocating System](https://github.com/rubxn69/Realtime-ASL-to-Speech-converter)  
 A bidirectional system that:  
 - Converts **sign language → speech** using OpenCV & MediaPipe.  
 - Converts **speech → text** with real-time display.  
 - Includes speech synthesis via **pyttsx3**.
 
-### 🔹 [Real-Time Chat Application](https://github.com/yourusername/chat-app)  
+### 🔹 [Real-Time Chat Application](https://github.com/rubxn69/chat-app)  
 - **React.js** frontend & **Firebase** backend.  
 - Secure authentication and real-time database sync.  
 
-### 🔹 [IoT-Based Air Quality Monitoring Node](https://github.com/yourusername/air-quality-monitor)  
+### 🔹 [IoT-Based Air Quality Monitoring Node](https://github.com/rubxn69/AirQuality-IoT-Node)  
 - Measures PM2.5, PM10, temperature, and humidity.  
 - Live dashboard via **ThingSpeak** for trend analysis.  
 
